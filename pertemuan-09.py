@@ -7,6 +7,7 @@ st.write("### Heading 3")
 st.write("#### Heading 4")
 st.metric("Kinerja", 40, -1)
 st.metric("Response Time", 30, 20)
+st.metric("Harga Saham", 100, 20)
 
 pilih1 = st.checkbox('Ya')
 pilih2 = st.checkbox('Tidak')
